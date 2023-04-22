@@ -283,10 +283,10 @@ footer {
     margin-right: 15px;
 }
 a {
-    font-size: 16px;
+    font-size: 14px;
     display: flex;
     margin-bottom: 10px;
-    color: #545454;
+    color: #040404;
     
     
     
@@ -306,7 +306,7 @@ position: absolute;
     height: 455px;
     position: relative;
     margin: 6% auto;
-    background: #2e2e2eed;
+    background: #fffefe8e;
     padding: 5px;
     border-radius: 10px;
     overflow: hidden;
@@ -413,6 +413,20 @@ position: absolute;
 }
 #registrar{
     left: 450px;
+}
+
+.submit_a{
+    width: 85%;
+    padding: 7px ;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+    background:  linear-gradient(to right, rgba(63, 81, 5181, 0.7), rgba(0, 188, 212, 0.7));
+    border: 0px ;
+    outline: none;
+    border-radius: 30px;
 }
 
 
