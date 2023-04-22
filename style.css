@@ -310,6 +310,7 @@ position: absolute;
     padding: 5px;
     border-radius: 10px;
     overflow: hidden;
+   
 }
 .button-box{
     width: 280px;
@@ -374,6 +375,7 @@ position: absolute;
     position: absolute;
     width: 280px;
     transition: 0.8s;
+    
 }
 .input-field{
     width: 100%;
@@ -423,6 +425,13 @@ position: absolute;
     outline: none;
     border-radius: 30px;
 }
+#login{
+    left: 50px;
+}
+#registrar{
+    left: 450px;
+}
+
 
 
 
